@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("C:/Users/Acer/Desktop/blog website/download (1).jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header {
+    background-color:transparent;
+    color: rgb(19, 19, 19);
+    padding: 100px;
+    text-decoration:solid;
+    background-image:url("C:/Users/Acer/Desktop/blog website/images (1).jpg");
+    background-size: cover;
+}
+#user-profile {
+    margin: 20px;
+    padding: 30px;
+    border: 1px solid #af2f9a;
+    border-radius: 40px;
+}
+#create-task{
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ac2e2e;
+    border-radius: 4px;
+}
+
+#task-list {
+    margin-top: 10px;
+    border: #6d7f93;
+}
+button {
+    background-color: #007bff;
+    color: #bea7a7;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #835754;
+}
+h1{
+    background-color: #249fa1;
+    height:50px;
+}
